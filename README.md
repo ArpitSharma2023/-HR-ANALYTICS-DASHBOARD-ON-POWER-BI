@@ -1,1 +1,4 @@
 # -HR-ANALYTICS-DASHBOARD-ON-POWER-BI
+Hi Connection's! Finally I done project :- An Interactive Attrition Dashboard in Power BI
+I am thrilled to introduce my most recent undertaking, an interactive Attrition Dashboard crafted in Power BI, designed to aid organizations on how to handle employee retention. Attrition - the occurance of employees leaving a company over time - is a crucial measure of organizational health, often indicating the effectiveness of HR policies and employee satisfaction.
+Power BI and Attrition Analysis Through the lens of this dynamic dashboard, HR teams can gain in-depth insights into attrition rates, unveiling patterns and potential hotspots for concern. A standout feature is the ability to filter the data across three crucial departments: HR, R&D, and Sales. This enables a close examination of department-specific trends, providing invaluable data for customizing strategies aimed at boosting employee retention.
